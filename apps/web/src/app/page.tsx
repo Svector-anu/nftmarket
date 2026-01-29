@@ -39,7 +39,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto space-y-12">
             <div className="text-center space-y-4">
                 <h2 className="text-4xl font-extrabold tracking-tight lg:text-5xl">
-                    Mint Your Achievements
+                    Claim NFTs
                 </h2>
                 <p className="text-xl text-muted-foreground">
                     Create soulbound badges that prove your skills forever on Base and Stacks.
@@ -139,7 +139,7 @@ export default function Home() {
                             </tr>
                             <tr>
                                 <td className="px-4 py-3">Stacks</td>
-                                <td className="px-4 py-3">Mint Badge</td>
+                                <td className="px-4 py-3">Claim NFT</td>
                                 <td className="px-4 py-3"><span className="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-primary text-primary-foreground hover:bg-primary/80">Success</span></td>
                                 <td className="px-4 py-3 text-right font-mono text-muted-foreground">0xabc...123</td>
                             </tr>
